@@ -1,4 +1,4 @@
-##Informazioni sul corso
+## Informazioni sul corso
 
 Questo corso è indirizzato a studenti universitari che abbiano già delle basi di programmazione in altri linguaggi e vogliano affacciarsi al linguaggio Python.
 
