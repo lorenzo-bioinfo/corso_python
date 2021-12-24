@@ -1,0 +1,4 @@
+>NP_000230.1 lysozyme C precursor [Homo sapiens]
+Ciao, ho scritto qui
+Ho scritto in append
+Ciao, me ne vado 
